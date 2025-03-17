@@ -15,6 +15,7 @@ This is a simple **Sentiment Analysis Chatbot** that detects the sentiment (posi
 ---
 
 ## 🛠️ Installation & Usage
+
 1️⃣ Install Dependencies
 Make sure you have **Python 3.x** installed, then install the required libraries:
 ```sh
