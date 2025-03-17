@@ -20,14 +20,14 @@ Make sure you have **Python 3.x** installed, then install the required libraries
 ```sh
 pip install textblob nltk
 
-2️⃣ Run the Chatbot
+### 2️⃣ Run the Chatbot
 Run the Python script:
 
 sh
 Copy
 Edit
 python chatbot.py
-3️⃣ Chat with the Bot
+### 3️⃣ Chat with the Bot
 The chatbot will analyze sentiment and respond accordingly:
 
 yaml
