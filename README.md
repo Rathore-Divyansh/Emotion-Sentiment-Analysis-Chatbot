@@ -50,16 +50,3 @@ Want to improve this chatbot? Feel free to fork the repository and create a pull
 📧 Contact
 📩 Divyansh Rathore
 🔗 GitHub: github.com/Rathore-Divyansh
-
-yaml
-Copy
-Edit
-
----
-
-### 🎯 **Next Steps for You:**
-1. **Create a GitHub repository** for your chatbot.
-2. **Upload your files (`chatbot.py` & `README.md`)** to the repo.
-3. **Share the repo link** so others can explore and contribute! 🚀
-
-Let me know if you need any modifications! 😃
